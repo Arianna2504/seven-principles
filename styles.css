@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(151, 158, 235, 0.62);
+    color: blue;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    font-size: 38px;
+    line-height: 100%;
+    letter-spacing: 1px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: none;
+    font-size: 24px;
+    font-weight: 600;
+    text-transform: none;
+    background-color: #e3e3ff;
+    padding: 8px 16px;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 10px;
+    margin-bottom: 42px;
+}
+
+a {
+color: blueviolet;
+text-decoration: none;
+transition: all 0.25s;
+
+}
+
+a:hover {
+    color: azure;
+
+}
+
+.indent {
+    text-indent: 48px;
+}
